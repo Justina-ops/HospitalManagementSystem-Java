@@ -60,10 +60,21 @@ The system consists of several main classes:
 
 A UML Class Diagram is used to illustrate the classes, attributes, methods and relationships within the system.
 
-## My Work
+## Contributors
 
-This project was completed as a group assignment. Individual responsibilities and contributions were divided among group members during system development.
+| Team Member | Files | Contributions |
+| --- | --- | --- |
+| Yew Kai Qian | `Facility.java`, `MainGUI.java` | Facility management and JavaFX graphical user interface |
+| Leong Di Hao | `BaseRecord.java`, `Doctor.java`, `Patient.java`, `Ambulance.java` | Inheritance, Open/Closed Principle and ambulance module extension |
+| Chong Wei Ni | `Staff.java`, `Medical.java`, `InputValidator.java` | Staff and medical modules, input validation and exception handling |
+| Liew Jia Min | `Lab.java`, `HospitalManagement.java` | Laboratory module, ArrayList management, controller logic and system integration |
 
+## My Contributions
+
+- Developed `Lab.java` to manage laboratory information and service costs.
+- Implemented controller logic in `HospitalManagement.java` to coordinate the hospital modules.
+- Used ArrayLists to initialise and manage hospital records.
+- Integrated the individual modules into the overall hospital management system.
 ## Project Context
 
 This project was developed as part of the UCCD2044 Object-Oriented Programming coursework at Universiti Tunku Abdul Rahman (UTAR), June 2026 Term.
